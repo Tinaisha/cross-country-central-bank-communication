@@ -1,0 +1,9 @@
+There are barely anything including the other websites (some just do not load). This is from the bank itself and only up to 2018
+- current vs constant price. I chose constant price as it seems to make the series real GDP and based on 2000 price
+- I ignore the by expenditure
+
+There is this website that took forever to load (20 mins+) but actually have data: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__NA__QT__23QNAP__PRD/?tablelist=true
+- GDP at constant price at 2018 price. Quarterly. I dont trust the growth rate bc from the headings, it seems to be a 12 years growth, not quarter by quarter.
+- Has to be annualized since I dont think they did.
+
+Unemployment rate is quarterly but monthly after a certain amount of time, and there are a lot of notes in the excel, see the sheets for more details

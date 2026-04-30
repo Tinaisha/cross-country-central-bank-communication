@@ -1,0 +1,6 @@
+https://www.rbnz.govt.nz/statistics/key-statistics/economic-indicators
+
+RGDP has other countries?
+Checking inflations
+
+For some reason, the numbers in the "key variables" with graphs on with other countries, it does not match any of the series GDP growth in their other sections.

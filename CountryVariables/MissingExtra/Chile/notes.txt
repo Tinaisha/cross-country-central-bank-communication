@@ -1,0 +1,4 @@
+https://www.bcentral.cl/en/web/banco-central/areas/statistics
+Better one: https://si3.bcentral.cl/siete/en/Siete/Cuadro/CAP_CCNN/MN_CCNN76/CCNN2018_P2
+
+not sure if the GDP is the real GDP or nominal (assuming real since nominal is not useful), has quarterly seasonally adjusted.

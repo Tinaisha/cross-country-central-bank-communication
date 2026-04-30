@@ -1,0 +1,18 @@
+This section is subjected to potential translation error as the data website is only available in Spanish (?)
+On GDP: There are GDP by sector and GDp Expenditure, which I only choose the former as the later is focusing on expenditure (I did the same for NZ and other countries).
+There are multiple series, beginning with 2 main series:
+- GDP and domestic demand (annualized percentage changes)
++ GDP
++ seasonally adjusted GDP - monthly var%
++ seasonally adjusted GDp- var% 3-month moving average
+- GDP and domestic demand (index 2007=100)
++ GDP
++ seasonally adjusted GDP - monthly var%
++ seasonally adjusted GDp- var% 3-month moving average
+I picked the monthly but let me know if other series is better. I download all 6.
+
+On unemployment rate:
+- Just unemployment rate
+- by gender male/female
+- by age group 14-24/25-44/45+
+==> this tells me the first series is age 14+, and I will just use this (the OECD series use 15+).
